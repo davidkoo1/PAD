@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[Post]
+(
+	[Id] VARCHAR(30) NOT NULL PRIMARY KEY,
+	[Author] NVARCHAR(50),
+	[Content] NVARCHAR(1000),
+	[Date] DATETIME DEFAULT GETDATE()
+)

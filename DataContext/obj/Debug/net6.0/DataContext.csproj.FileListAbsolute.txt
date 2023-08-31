@@ -1,0 +1,12 @@
+R:\the best уроки от лучшего человека\ASP\WebApplication6\DataContext\bin\Debug\net6.0\DataContext.deps.json
+R:\the best уроки от лучшего человека\ASP\WebApplication6\DataContext\bin\Debug\net6.0\DataContext.dll
+R:\the best уроки от лучшего человека\ASP\WebApplication6\DataContext\bin\Debug\net6.0\DataContext.pdb
+R:\the best уроки от лучшего человека\ASP\WebApplication6\DataContext\obj\Debug\net6.0\DataContext.csproj.AssemblyReference.cache
+R:\the best уроки от лучшего человека\ASP\WebApplication6\DataContext\obj\Debug\net6.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+R:\the best уроки от лучшего человека\ASP\WebApplication6\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfoInputs.cache
+R:\the best уроки от лучшего человека\ASP\WebApplication6\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfo.cs
+R:\the best уроки от лучшего человека\ASP\WebApplication6\DataContext\obj\Debug\net6.0\DataContext.csproj.CoreCompileInputs.cache
+R:\the best уроки от лучшего человека\ASP\WebApplication6\DataContext\obj\Debug\net6.0\DataContext.dll
+R:\the best уроки от лучшего человека\ASP\WebApplication6\DataContext\obj\Debug\net6.0\refint\DataContext.dll
+R:\the best уроки от лучшего человека\ASP\WebApplication6\DataContext\obj\Debug\net6.0\DataContext.pdb
+R:\the best уроки от лучшего человека\ASP\WebApplication6\DataContext\obj\Debug\net6.0\ref\DataContext.dll

@@ -1,0 +1,29 @@
+﻿@model CreatePostViewModel
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Create";
+}
+
+@using (Html.BeginForm("CreatePost", "Home", FormMethod.Post))
+{
+    <br />
+    @Html.LabelFor(x => x.Author)
+    <br />
+    @Html.EditorFor(x => x.Author)
+
+    <br />
+    @Html.LabelFor(x => x.Content)
+    <br />
+    @Html.TextAreaFor(x => x.Content, new {rows = 15, cols = 155})
+
+    <br />
+    <br />
+    <input type="submit" value="Create" />
+    
+    <br />
+    <br />
+    @Html.ValidationSummary()
+
+}

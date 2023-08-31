@@ -1,0 +1,6 @@
+R:\the best уроки от лучшего человека\ASP\WebApplication6\Database\bin\Debug\Database.dacpac
+R:\the best уроки от лучшего человека\ASP\WebApplication6\Database\bin\Debug\Database.dll
+R:\the best уроки от лучшего человека\ASP\WebApplication6\Database\bin\Debug\Database.pdb
+R:\the best уроки от лучшего человека\ASP\WebApplication6\Database\obj\Debug\Database.sqlproj.AssemblyReference.cache
+R:\the best уроки от лучшего человека\ASP\WebApplication6\Database\obj\Debug\Database.dll
+R:\the best уроки от лучшего человека\ASP\WebApplication6\Database\obj\Debug\Database.pdb

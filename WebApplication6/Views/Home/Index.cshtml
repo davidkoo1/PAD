@@ -1,0 +1,25 @@
+﻿@model List<PostViewModel>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+
+
+    @if (Model.Any())
+    {
+        @foreach (var post in Model)
+        {
+            <div class="post-container">
+                <div><b>@post.Author</b> posted: </div>
+                <div class="post-content">@Html.Raw(post.Content)</div>
+                <div style="text-align: right">@post.Date</div>
+            </div>
+        }
+    }
+    else
+    {
+        <h5>We dont have posts in last 24 hours to show</h5>
+    }
+
+</div>
